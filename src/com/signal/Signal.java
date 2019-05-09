@@ -190,5 +190,6 @@ public class Signal {
 				}
 			}
 		} while (!str.equals("end"));
+		System.out.println("应用运行结束。");
 	}
 }
